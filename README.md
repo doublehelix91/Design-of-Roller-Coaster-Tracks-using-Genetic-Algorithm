@@ -1,4 +1,4 @@
-# Design-of-Roller-Coaster-Tracks-using-Genetic-Algorithm
+# Design of Roller Coaster Tracks using Genetic Algorithm
 
 
 ## Authors
